@@ -1,5 +1,4 @@
 //min and max of array
-
 let a = [4,5,2,7,9,3,1]
 for(let i = 0; i < a.length; i++) {
   for(let j = i; j < a.length; j++) {

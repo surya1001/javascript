@@ -1,5 +1,4 @@
 //reverse a string
-
 let str = "suryaprakash"
 const a = str.split("")
 let b = []

@@ -23,6 +23,7 @@ for(let i = 0; i < a.length; i++){
       tot += a[j]
       console.log(a[i], a[j], tot)
       if(max == tot){
+        console.log(max)
         return true
       }
     }
